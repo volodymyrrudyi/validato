@@ -6,7 +6,7 @@ Usage example
 ===============
 
 
-```
+```javascript
         // common.highlight and common.unhighlight are some sample functions that can add/remove 
         // error message to/from field
         $("#loginForm").submit(function(event){
